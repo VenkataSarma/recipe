@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your **Recipe Website** project:
 
----
 
 ```markdown
 # 🍽️ Recipe Website
